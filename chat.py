@@ -25,3 +25,6 @@ def main():
     if content == "quit":
       break
     print(create_response(content))
+    
+if __name__  == "__main__":
+  main()
