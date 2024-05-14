@@ -10,7 +10,7 @@ openai.api_key=getenv('OPENAI_API_KEY')
 
 def create_response(content):
   response = client.chat.completions.create(
-    model = "gpt-4-1106-preview",
+    model = "gpt-4o",
     messages=[{
       "role":"user",
       "content":content
