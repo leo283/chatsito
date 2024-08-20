@@ -1,4 +1,4 @@
-# Chat implementation 
+# OpenAI chatGPT's API implementation 
 
 ## Don't forget to install the requirements.
 
